@@ -2,4 +2,8 @@
 
 # Rizki Nugraha
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugrhrizki)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
