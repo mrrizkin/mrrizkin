@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizki Nugraha</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-- 📝 I regularly write articles on [nugrhrizki.github.io](nugrhrizki.github.io)
+- 📝 I regularly write articles on [nugrhrizki.github.io](https://nugrhrizki.github.io)
 
 - 📫 How to reach me **nugraha07rizki@gmail.com**
 
