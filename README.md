@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://twitter.com/kin_jerf" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="kin_jerf" height="30" width="40" />
+  <img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="kin_jerf" height="30" width="40" />
  </a>
 </p>
 
