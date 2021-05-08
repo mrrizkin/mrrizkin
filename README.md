@@ -12,6 +12,9 @@
  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nugrhrizki&show_icons=true&locale=en" alt="nugrhrizki" /></p>
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nugrhrizki&show_icons=true&locale=en" alt="nugrhrizki" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nugrhrizki&hide=issues&show_icons=true" alt="nugrhrizki" />
+</p>
 
 
