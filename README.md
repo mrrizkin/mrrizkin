@@ -1,18 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rizki Nugraha</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+```vimwiki
+= Test vim wiki =
 
-- 📫 How to reach me **nugraha07rizki@gmail.com**
+if it's work cool :)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://twitter.com/kin_jerf" target="blank">
-  <img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="kin_jerf" height="30" width="40" />
- </a>
-</p>
-
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nugrhrizki&show_icons=true&locale=en" alt="nugrhrizki" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nugrhrizki&hide=issues&show_icons=true&include_all_commits=true" alt="nugrhrizki" />
-</p>
-
-
+```
