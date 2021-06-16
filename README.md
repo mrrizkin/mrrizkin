@@ -1,5 +1,5 @@
 ### Sampurasun 👋, wasta abdi Rizki Nugraha
-#### Tukang listrik ogé Programmer
+#### Abdi Téh Tukang listrik ogé Programmer
 Abdi lulusan Téknik Énergi Listrik. Di dieu kuring resep ngadamel proyek sareng ngabagi program sareng pangembang anu sanés.
 
 Kaahlian: Penerangan Listrik / Motor Listrik / PLC / Robotik / Pengembangan Web
