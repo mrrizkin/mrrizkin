@@ -6,8 +6,7 @@ Kaahlian: Penerangan Listrik / Motor Listrik / PLC / Robotik / Pengembangan Web
 
 - 🔭 Abdi ayeuna nuju ngadamel [ontwikkelaars](https://github.com/nugrhrizki/ontwikkelaars)
 - 💬 Naros ka kuring perkawis Kalistrikan 
-- 😄 Pelafalan: Rizk**i** Nugraha nganggo **_i_** tibatan **_y_**
-- ⚡ Kanyataan anu pikaresepeun: Kuring resep ngagunakeun `tab` tibatan `space`
+- 😄 Pelafalan: Rizk**i** Nugraha nganggo `i` tibatan `y`
+- ⚡ Kanyataan anu pikaresepeun: Kuring resep ngagunakeun <kbd>tab</kbd> tibatan <kbd>space</kbd>
 
-> **Perhatian:** Email anu sanés dina basa sundan kuring moal némbalan.
-[Email Abdi](mailto:nugraha07rizki@gmail.com)
+> **Perhatian:** Email anu sanés dina basa sundan kuring moal némbalan. [Email Abdi](mailto:nugraha07rizki@gmail.com)
