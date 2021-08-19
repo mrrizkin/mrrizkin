@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://source.unsplash.com/1600x900/?calm,forest" alt="cover" />
+<img width="100%" height = "400px" src="https://source.unsplash.com/1600x900/?retro,forest" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on My Blog, SaaS Project
 
-- 🌱 I’m currently learning Lua, Elixir 
+- 🌱 I’m currently learning Lua, Elixir, Rust
 
 - 👯 I’m looking to collaborate on Projects, Software/Hardware Product 
 
