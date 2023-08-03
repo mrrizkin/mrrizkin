@@ -1,6 +1,6 @@
 # Rizki Nugraha on GitHub
 
-[![GitHub followers](https://img.shields.io/github/followers/nugrhrizki?style=social)](https://github.com/<your_username>)
+[![GitHub followers](https://img.shields.io/github/followers/nugrhrizki?style=social)](https://github.com/nugrhrizki)
 
 Welcome to my GitHub profile! 👋 I'm Rizki Nugraha, and I'm passionate about Software Development, Linux, and Robotics. Here you'll find some of my projects and contributions.
 
