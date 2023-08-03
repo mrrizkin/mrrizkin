@@ -22,6 +22,7 @@ Welcome to my GitHub profile! 👋 I'm Rizki Nugraha, and I'm passionate about S
 ## 🌱 Currently Learning
 
 - Rust Programming Language
+- Go Programming Language
 - Kotlin
 - Spring Boot
 
