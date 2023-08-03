@@ -1,43 +1,33 @@
-<div align="center">
-<img width="100%" height = "400px" src="https://source.unsplash.com/1600x900/?retro,forest" alt="cover" />
-</div>
+# Rizki Nugraha on GitHub
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+[![GitHub followers](https://img.shields.io/github/followers/nugrhrizki?style=social)](https://github.com/<your_username>)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nugrhrizki.nugrhrizki)
+Welcome to my GitHub profile! 👋 I'm Rizki Nugraha, and I'm passionate about Software Development, Linux, and Robotics. Here you'll find some of my projects and contributions.
 
-</p>
-<div size='20px'> Hi! My name is Rizki. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+## 📚 Projects
 
-<h2> About Me </h2>
+- **Penkr**: Extensible backend service automaticly handle the hard part.
+  - GitHub Repository: [Link](https://github.com/nugrhrizki/penkr)
+  - Youtube Demo: [Link](https://youtu.be/n2x8qfJrHzU)
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- **Overforms**: Embrace the power of your unparalleled forms, leaving rivals in awe.
+  - GitHub Repository: [Link](https://github.com/nugrhrizki/overforms)
+  - Live Demo: **_WIP_**
 
+## 📌 Pinned Repositories
 
-- 🔭 I’m currently working on My Blog, SaaS Project
+- **Dotfiles**: My linux system configuration.
+  - GitHub Repository: [Link](https://github.com/nugrhrizki/dotfiles)
 
-- 🌱 I’m currently learning Lua, Elixir, Rust
+## 🌱 Currently Learning
 
-- 👯 I’m looking to collaborate on Projects, Software/Hardware Product 
+- Rust Programming Language
+- Kotlin
+- Spring Boot
 
-- 💬 Talk to me about Linux, Automation, IoT, Microcontroller, Android 
+## 📫 Let's Connect
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/nugrhrizki?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
-<a href= https://github.com/nugrhrizki?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/nugrhrizki?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/nugrhrizki?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
-<a href= https://github.com/nugrhrizki?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/nugrhrizki?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/nugrhrizki?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
+- LinkedIn: [Link](https://www.linkedin.com/in/mangiki/)
+- Personal Website/Blog: [Link](https://mangiki.com)
 
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.github.com/nugrhrizki'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
+Feel free to explore my projects and repositories. If you find anything interesting or have any suggestions, feel free to create issues or submit pull requests. Let's collaborate and learn together! 😊
