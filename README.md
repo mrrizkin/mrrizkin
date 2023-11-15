@@ -2,7 +2,7 @@
 
 [![An image of @nugrhrizki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nugrhrizki)](https://holopin.io/@nugrhrizki)
 
-Welcome to my GitHub profile! 👋 I'm Rizki Nugraha, and I'm passionate about Software Development, Linux, and Robotics. Here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! 👋 I'm Rizki Nugraha, and I'm passionate about Software Development, Linux, and [Robotics](https://github.com/c1hitech-saci). Here you'll find some of my projects and contributions.
 
 
 ## 📫 Let's Connect
