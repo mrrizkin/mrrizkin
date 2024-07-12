@@ -1,13 +1,11 @@
-# Rizki Nugraha on GitHub
-
-[![An image of @nugrhrizki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nugrhrizki)](https://holopin.io/@nugrhrizki)
-
-Welcome to my GitHub profile! 👋 I'm Rizki Nugraha, and I'm passionate about Software Development, Linux, and [Robotics](https://github.com/c1hitech-saci). Here you'll find some of my projects and contributions.
-
-
-## 📫 Let's Connect
-
-- LinkedIn: [Link](https://www.linkedin.com/in/mangiki/)
-- Website: [Link](https://mangiki.com)
-
-Feel free to explore my repositories. If you find anything interesting or have any suggestions, feel free to contribute. Let's collaborate and learn together! 😊
+<div align="center">
+  <a href="https://www.linkedin.com/in/mrrizkin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://youtube.com/@mangiki_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/mrrizkin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=mrrizkin&logo=twitter&label=X&color=444&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
